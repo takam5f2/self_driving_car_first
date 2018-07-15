@@ -36,12 +36,8 @@ Under my presumption, there is no intensive change in the picture.
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![result1][image2]
-![result2][image3]
-![result3][image4]
-![result4][image5]
-![result5][image6]
-![result6][image7]
+![result1][image2] ![result2][image3] ![result3][image4]
+![result4][image5] ![result5][image6] ![result6][image7]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
